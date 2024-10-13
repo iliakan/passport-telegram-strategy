@@ -1,7 +1,7 @@
 {
-  "name": "@rainb0w-clwn/passport-telegram-official",
+  "name": "passport-telegram-strategy",
   "version": "2.0.2",
-  "description": "[UPDATED] Telegram (not official, just the name) authentication strategy for Passport (https://core.telegram.org/widgets/login)",
+  "description": "Telegram (not official, just the name) authentication strategy for Passport (https://core.telegram.org/widgets/login)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
