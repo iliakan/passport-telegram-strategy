@@ -1,6 +1,6 @@
 {
   "name": "passport-telegram-strategy",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Telegram (not official, just the name) authentication strategy for Passport (https://core.telegram.org/widgets/login)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,14 +24,6 @@
     "login",
     "oauth"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rainb0w-clwn/passport-telegram-official.git"
-  },
-  "author": "Andrey Vasilev (https://github.com/Blitss)",
-  "contributors": [
-    "rainb0w-clwn (https://github.com/rainb0w-clwn)"
-  ],
   "license": "MIT",
   "licenses": [
     {
@@ -39,13 +31,9 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "bugs": {
-    "url": "https://github.com/rainb0w-clwn/passport-telegram-official/issues"
-  },
   "release": {
     "branch": "master"
   },
-  "homepage": "https://github.com/rainb0w-clwn/passport-telegram-official#readme",
   "dependencies": {
     "express": "^4.18.2",
     "passport-strategy": "^1.0.0"
